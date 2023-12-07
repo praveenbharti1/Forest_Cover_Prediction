@@ -1,5 +1,3 @@
-Okay, I can add some more emojis to make your documentation more lively and fun. Here is the updated GitHub documentation in markdown format for the given text:
-
 # Forest Cover Type Prediction 🌲🌳🌴
 
 This project aims to create a predictive model that can accurately classify seven different cover types in four different wilderness areas of the Roosevelt National Forest of Northern Colorado, based on the given dataset. The dataset contains 581,012 instances and 54 features, including 10 numerical features and 44 binary features. The target variable is the forest cover type, which has seven possible values: Spruce/Fir, Lodgepole Pine, Ponderosa Pine, Cottonwood/Willow, Aspen, Douglas-fir, and Krummholz.
